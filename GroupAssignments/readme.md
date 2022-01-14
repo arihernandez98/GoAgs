@@ -14,7 +14,7 @@ We are focusing on the City of Los Angeles because of the large spatial area tha
 * Median Household Income 
   * Report: [Income and Poverty in the United States: 2020](https://www.census.gov/library/publications/2021/demo/p60-273.html)
   * Data: [Income and Poverty in the United States: 2020](https://www.census.gov/data/tables/2021/demo/income-poverty/p60-273.html)
-  * Data: [ACS 2019 (5 Year Estimate](https://www.socialexplorer.com/reports/socialexplorer/en/report/c4eda872-756f-11ec-af9a-d7b410c4fe4f)
+  * Data: [ACS 2019 (5 Year Estimate)](https://www.socialexplorer.com/reports/socialexplorer/en/report/c4eda872-756f-11ec-af9a-d7b410c4fe4f)
 * Parks/Recreation
   * [Trust for Public Land - Los Angeles Data](https://www.tpl.org/city/los-angeles-california)
   * [Trust for Public Land - Shapefile Download for Park Equity Measurement ](https://www.tpl.org/parkserve/downloads )
