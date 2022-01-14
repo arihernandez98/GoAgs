@@ -13,6 +13,7 @@ We are focusing on the City of Los Angeles because of the large spatial area tha
   * [House Price Index Datasets | Federal Housing Finance Agency](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx)
 * Median Household Income 
   * Report: [Income and Poverty in the United States: 2020](https://www.census.gov/library/publications/2021/demo/p60-273.html)
+  * Data:[Income and Poverty in the United States: 2020](https://www.census.gov/data/tables/2021/demo/income-poverty/p60-273.html)
 * Parks/Recreation
   * [Trust for Public Land - Los Angeles Data](https://www.tpl.org/city/los-angeles-california)
   * [Trust for Public Land - Shapefile Download for Park Equity Measurement ](https://www.tpl.org/parkserve/downloads )
