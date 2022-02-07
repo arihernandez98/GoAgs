@@ -1,6 +1,7 @@
 ## Introduction of your research question
-With the understanding that parks and recreational spaces are important to all communities, we are interested in exploring how access to these facilities may differ depending on median household income levels. Additionally, if we have the capacity, we would like to explore how the investment and/or creation of parks affect the respective neighborhood’s housing prices over the span of 10 years, from 2010 to 2020. 
-Our research question, **what is the varying spatial distribution of parks to neighborhoods of varying income levels?** 
+With the understanding that parks and recreational spaces are important to all communities, we would like to explore how the presence of parks affect the respective neighborhood’s housing prices and home tenure over the span of 10 years, from 2010 to 2019. **Do parks in the city of Los Angeles have an effect on housing prices and change in tenure from 2010 to 2019?**
+
+ 
 
 ## An explanation of why it is important to you, why it matters to others, and what is at stake
 This project is important to us because we value equal access to parks and recreational spaces, and we believe the creation and investment into these amenities should not contribute to the displacement of existing residences. Access to parks and recreational facilities contribute to better living conditions such as increased physical and mental wellness, decreased median temperatures, increased stormwater capture and management, and increased aesthetic value to neighborhoods. As the threat of climate change creates more extreme heat events, many communities seek refuge at local outdoor parks because of shaded infrastructure and decreased temperatures due to green infrastructure. The importance of parks and outdoor recreational spaces became increasingly apparent during the COVID-19 pandemic as communities utilized parks for physical activity and a space to safely socialize with families and friends.
@@ -14,15 +15,18 @@ We are focusing on the City of Los Angeles because of the large spatial area tha
 * Median Household Income 
   * Report: [Income and Poverty in the United States: 2020](https://www.census.gov/library/publications/2021/demo/p60-273.html)
   * Data: [Income and Poverty in the United States: 2020](https://www.census.gov/data/tables/2021/demo/income-poverty/p60-273.html)
-  * Data: [ACS 2019 (5 Year Estimate)](https://www.socialexplorer.com/reports/socialexplorer/en/report/c4eda872-756f-11ec-af9a-d7b410c4fe4f)
+* Tenure:
+ * [2019 Tenure ACS 5-year estimate](https://www.socialexplorer.com/tables/ACS2019_5yr/R13021374)
+ * [2010 Tenure ACS 5-year estimate](https://www.socialexplorer.com/tables/ACS2010_5yr/R13021377)
+
 * Parks/Recreation
   * [Trust for Public Land - Los Angeles Data](https://www.tpl.org/city/los-angeles-california)
   * [Trust for Public Land - Shapefile Download for Park Equity Measurement ](https://www.tpl.org/parkserve/downloads )
 
 ## A scope that explains the intended analysis and resulting visualizations for your project
-We will compare the spatial distribution of parks to neighborhoods of varying income levels. The Trust for Public Land has data on park access across the City of Los Angeles which we will then compare to household characteristics such as median housing prices and income from the Census Bureau and FHFA to determine if wealthier neighborhoods have better access to outdoor park spaces. We also know that green gentrification can occur when low income communities receive investments like park amenities. We are concerned with how providing funding for parks can lead to increasing housing prices and displacement in communities over time. 
+We will compare the spatial distribution of parks to neighborhoods based on change in tenure and housing prices from 2010 to 2019. The Trust for Public Land has data on park access across the City of Los Angeles which we will then compare to household characteristics such as median housing prices and tenure from the Census Bureau and FHFA to determine if parks impact a change in tenure or housing prices. We also know that green gentrification can occur when low income communities receive investments like park amenities. We are concerned with how providing funding for parks can lead to increasing housing prices and displacement in communities over time. 
 
 ## A concluding paragraph of what insights you expect to gain from your research
-We expect to understand how income inequality affects investment in Los Angeles communities through their access to outdoor parks and recreational spaces. We expect to see that communities with higher incomes and higher median housing prices have better access to parks and have better quality parks than communities with lower incomes and lower median housing prices. If we are able to find park data over time, we also hope to gain insight into how increased park spaces may lead to the displacement of low-income residents through gentrification and increased housing prices. 
+We expect to understand how income inequality affects investment in Los Angeles communities through their access to outdoor parks and recreational spaces. We expect to see that communities with higher incomes and higher median housing prices have better access to parks and have better quality parks than communities with lower incomes and lower median housing prices. We also hope to gain insight into how increased park spaces may lead to the displacement of low-income residents through gentrification and increased housing prices and decreased renters in the area. 
 
  
