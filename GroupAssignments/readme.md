@@ -16,8 +16,8 @@ We are focusing on the City of Los Angeles because of the large spatial area tha
   * Report: [Income and Poverty in the United States: 2020](https://www.census.gov/library/publications/2021/demo/p60-273.html)
   * Data: [Income and Poverty in the United States: 2020](https://www.census.gov/data/tables/2021/demo/income-poverty/p60-273.html)
 * Tenure:
- * [2019 Tenure ACS 5-year estimate](https://www.socialexplorer.com/tables/ACS2019_5yr/R13021374)
- * [2010 Tenure ACS 5-year estimate](https://www.socialexplorer.com/tables/ACS2010_5yr/R13021377)
+  * [2019 Tenure ACS 5-year estimate](https://www.socialexplorer.com/tables/ACS2019_5yr/R13021374)
+  * [2010 Tenure ACS 5-year estimate](https://www.socialexplorer.com/tables/ACS2010_5yr/R13021377)
 
 * Parks/Recreation
   * [Trust for Public Land - Los Angeles Data](https://www.tpl.org/city/los-angeles-california)
